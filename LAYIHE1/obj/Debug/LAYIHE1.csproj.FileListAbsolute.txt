@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\LAYIHE1\LAYIHE1\bin\Debug\LAYIHE1.exe.config
+C:\Users\HP\source\repos\LAYIHE1\LAYIHE1\bin\Debug\LAYIHE1.exe
+C:\Users\HP\source\repos\LAYIHE1\LAYIHE1\bin\Debug\LAYIHE1.pdb
+C:\Users\HP\source\repos\LAYIHE1\LAYIHE1\obj\Debug\LAYIHE1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\LAYIHE1\LAYIHE1\obj\Debug\LAYIHE1.Form1.resources
+C:\Users\HP\source\repos\LAYIHE1\LAYIHE1\obj\Debug\LAYIHE1.Form2.resources
+C:\Users\HP\source\repos\LAYIHE1\LAYIHE1\obj\Debug\LAYIHE1.Form3.resources
+C:\Users\HP\source\repos\LAYIHE1\LAYIHE1\obj\Debug\LAYIHE1.Form4.resources
+C:\Users\HP\source\repos\LAYIHE1\LAYIHE1\obj\Debug\LAYIHE1.Properties.Resources.resources
+C:\Users\HP\source\repos\LAYIHE1\LAYIHE1\obj\Debug\LAYIHE1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\LAYIHE1\LAYIHE1\obj\Debug\LAYIHE1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LAYIHE1\LAYIHE1\obj\Debug\LAYIHE1.exe
+C:\Users\HP\source\repos\LAYIHE1\LAYIHE1\obj\Debug\LAYIHE1.pdb
